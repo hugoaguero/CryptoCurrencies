@@ -1,6 +1,9 @@
 # cryptocurrency
 
+## Web
+```
 https://cryptocurrencyvue.netlify.app
+```
 
 ## Project setup
 ```
