@@ -1,5 +1,7 @@
 # cryptocurrency
 
+https://cryptocurrencyvue.netlify.app
+
 ## Project setup
 ```
 yarn install
